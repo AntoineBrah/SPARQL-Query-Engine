@@ -1,0 +1,2 @@
+nom du fichier de donn�es,nom du dossier des requ�tes ,nombre de triplets RDF,nombre de requ�tes, temps de lecture des donn�es (ms), temps de lecture des requ�tes (ms),temps cr�ation dico (ms),nombre d�index,temps de cr�ation des index (ms), temps total d��valuation du workload (ms), temps total,Nombre de req non r�solu,Nombre de doublure 
+500K.rdf,ML-1-5.queryset,529580,0,253,0,304,6,2438,68,13794,0,0

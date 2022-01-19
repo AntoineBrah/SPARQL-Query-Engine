@@ -1,0 +1,4 @@
+ "dataParsing" :7920 milliseconds
+ "L'export" :5769 milliseconds
+ "queryParsing" :68 milliseconds
+ "Total" :13 seconds

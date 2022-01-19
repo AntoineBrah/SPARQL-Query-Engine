@@ -1,0 +1,600 @@
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User15378> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User13878> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User8984> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User19617> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User11656> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User18854> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User565> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User332> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User13081> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User8375> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User15760> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User16361> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User13981> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User5890> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User18273> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User906> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User2534> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User16878> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User11089> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User10314> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User1419> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User12453> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User14690> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User12694> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User12008> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User8375> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User17158> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User10314> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User3552> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User2446> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User10856> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User16878> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User966> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User14690> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User17895> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User7606> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User565> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User4461> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User12008> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User4660> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User8375> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User8375> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User18914> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User2277> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User9173> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User16878> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User14773> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User8484> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User12453> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User565> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User3552> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User5778> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User12963> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User3048> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User7606> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User15873> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User8277> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User906> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User12963> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User4461> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User16569> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User5890> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User4192> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User2081> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User17233> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User18931> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User13841> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User13878> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User18313> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User12567> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User16878> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User2534> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User6463> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User13541> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User12567> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User18312> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User16182> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User12008> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User6463> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User4192> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User19067> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User9081> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User14942> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User16878> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User332> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User13702> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User7194> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User14690> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User565> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User18313> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User10856> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User13702> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User13702> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User11656> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User19067> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User13981> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User351> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User13981> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User4461> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .
+SELECT ?v1 ?v2 ?v3 ?v4 ?v5 WHERE {
+	<http://db.uwaterloo.ca/~galuc/wsdbm/User8101> <http://db.uwaterloo.ca/~galuc/wsdbm/follows> ?v1 .
+	?v1 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> ?v2 .
+	?v2 <http://purl.org/stuff/rev#hasReview> ?v3 .
+	?v3 <http://purl.org/stuff/rev#reviewer> ?v4 .
+	?v4 <http://db.uwaterloo.ca/~galuc/wsdbm/userId> ?v5 .

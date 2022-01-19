@@ -1,0 +1,91 @@
+
+============================D�but de la requete 1===================
+SELECT ?v0 WHERE {	?v0 <http://schema.org/eligibleRegion> <http://db.uwaterloo.ca/~galuc/wsdbm/Country137> . } 
+
+============================Resultat===================
+Resultat Final de la variable v0: [8015, 8614, 9096, 19101, 19113, 19131, 19758, 28348, 29039, 38778, 46917, 48253, 48593, 66673, 66767, 66811, 66863, 67227, 67261, 67753, 76111, 76173, 76709, 77259, 85329, 94508, 94608, 96004, 104022, 105194, 113947, 114625, 114947, 123634, 142046, 142448, 142898, 143668, 152953, 161229, 162575, 162627, 170589, 171193, 171951, 172115, 180731, 181031, 181041, 181103, 181121, 190021]
+ equivalent � :
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer29
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer232
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer419
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer1373
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer1379
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer1388
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer1700
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer2105
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer2450
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer3418
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer3619
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer4287
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer4457
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer5741
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer5788
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer5810
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer5836
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer6018
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer6035
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer6281
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer6622
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer6653
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer6921
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer7196
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer7386
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer8132
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer8182
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer8880
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer9028
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer9614
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer10151
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer10490
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer10651
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer11146
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer12614
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer12815
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer13040
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer13425
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer14192
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer14480
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer15153
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer15179
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer15302
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer15604
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer15983
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer16065
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer16517
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer16667
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer16672
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer16703
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer16712
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer17300
+============================Fin de la requette===================
+
+
+
+*That took 1212600 nanoseconds
+============================D�but de la requete 2===================
+	SELECT ?v0 WHERE {	?v0 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> <http://db.uwaterloo.ca/~galuc/wsdbm/Product0> .	?v0 <http://schema.org/nationality> <http://db.uwaterloo.ca/~galuc/wsdbm/Country3> . }
+
+============================Resultat===================
+Resultat Final de la variable v0: [40646, 79142, 164714, 165467]
+ equivalent � :
+http://db.uwaterloo.ca/~galuc/wsdbm/User4277
+http://db.uwaterloo.ca/~galuc/wsdbm/User8453
+http://db.uwaterloo.ca/~galuc/wsdbm/User17446
+http://db.uwaterloo.ca/~galuc/wsdbm/User17789
+============================Fin de la requette===================
+
+
+
+*That took 4308807 nanoseconds
+============================D�but de la requete 3===================
+		SELECT ?v0 WHERE {	?v0 <http://purl.org/dc/terms/Location> <http://db.uwaterloo.ca/~galuc/wsdbm/City2> .	?v0 <http://schema.org/nationality> <http://db.uwaterloo.ca/~galuc/wsdbm/Country169> .	?v0 <http://db.uwaterloo.ca/~galuc/wsdbm/gender> <http://db.uwaterloo.ca/~galuc/wsdbm/Gender1> . }
+
+============================Resultat===================
+Resultat Final de la variable v0: [78647]
+ equivalent � :
+http://db.uwaterloo.ca/~galuc/wsdbm/User8229
+============================Fin de la requette===================
+
+
+
+*That took 298443 nanoseconds
